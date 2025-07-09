@@ -19,7 +19,7 @@ main{
     justify-content: baseline;
     align-items:center;
 }
-.caixe{
+.imagem{
     display: flex;
     flex-direction: column;
     justify-content: center;
