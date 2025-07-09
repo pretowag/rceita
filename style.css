@@ -17,5 +17,11 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: baseline;
+    align-items:first baseline;
+}
+.caixe{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
