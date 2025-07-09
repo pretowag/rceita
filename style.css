@@ -16,12 +16,12 @@ main{
 .caixa{
     display: flex;
     flex-direction: column;
-    justify-content: baseline;
-    align-items:center;
+    justify-content: left;
 }
 .imagem{
     display: flex;
     flex-direction: column;
-    justify-content: left;
+    justify-content: baseline;
+    align-items:center;
 
 }
