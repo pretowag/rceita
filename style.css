@@ -7,5 +7,6 @@ header{
     background-color: blueviolet;
 }
 main{
+    height: 100vh;
     background-color: aquamarine;
 }
