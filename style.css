@@ -4,7 +4,6 @@
 
 }
 header{
-    background-color: rgb(100, 73, 45);
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -17,6 +16,7 @@ header{
 
 }
 main{
+    background-color: rgb(100, 73, 45);
     height: 100vh;
     background-color: rgb(143, 133, 101);
 }
