@@ -26,7 +26,11 @@ main{
 }
 .caixa2{
     display: flex;
-    
+   img { 
+    width: 300px;
+    height: auto; /* Mantém a proporção */
+}
+ 
 
 
 }
